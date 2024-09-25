@@ -8,4 +8,5 @@ In this lab, you will learn how to represent various indicators of demography (e
 - Create a graduated symbol map.
 - Create a dot density map.
 - Use your maps to answer a critical thinking question.
+
 *Your final submission should include four maps and answers to each question that is highlighted in purple within the lab manual.*
